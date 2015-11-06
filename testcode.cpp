@@ -2,6 +2,11 @@
 
 ///////////////////////////////
 ///////////////////////////////
+
+////////THIS IS A PREVIEW OF HOW YOU CAN MAKE CHANGES AND COMMENTS !!!!!! 
+
+
+
 // I hate globals, but to keep this simple, we'll have our image stuff be global
 HDC         imageDC;        // the DC to hold our image
 HBITMAP     imageBmp;       // the actual bitmap which contains the image (will be put in the DC)
